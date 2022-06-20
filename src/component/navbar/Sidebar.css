@@ -1,0 +1,51 @@
+/* drawer properties */
+/* .css-78trlr-MuiButtonBase-root-MuiIconButton-root{
+    color: #242424 !important; 
+    font-size: 20px !important;
+} */
+.menubutton{
+    color: #242424 !important;
+    background-color: #fff !important;
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root{
+    width: 200px;
+}
+.css-i4bv87-MuiSvgIcon-root{
+    margin-right: 10%;
+    font-size: x-large !important;
+    margin-top: 10%;
+}
+.css-10hburv-MuiTypography-root{
+    font-size: medium !important;
+    color: #242424 !important;
+    padding-top: 10%;
+}
+
+/* Navbar indicator  */
+.css-11yukd5-MuiTabs-indicator{
+    background-color: red !important;
+    height: 3px !important;
+    width: 15% !important;
+    margin-left: 5% !important;
+}
+/* .css-11b3ww9-MuiPaper-root-MuiAppBar-root{
+    height: 70px !important;
+    background-color: #ffff !important;
+    color: #242424 !important;
+    position: relative !important;
+    z-index: -999 !important;
+    top: 0 !important;
+} */
+.Appbar{
+    background-color: #fff !important;
+    color: #242424 !important;
+    position: sticky !important;
+    top: 0 !important;
+    z-index: 999 !important;
+}
+.appbar-active{
+    background-color: #242424 !important;
+    color: #ffff !important;
+    
+}
+
