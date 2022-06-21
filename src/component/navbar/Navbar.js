@@ -27,6 +27,7 @@ function Navbar() {
     <div >
         <AppBar className={changeColor ? 'appbar-active' : 'Appbar'}>
             <Toolbar elevation={5} sx={{display:'flex',justifyContent:'space-between',}}>
+
                 <Typography sx={{fontSize:'20px !important'}}>Kutty Doctor</Typography>
                 
                 {isMatch ? <Sidebar /> : (
@@ -56,4 +57,3 @@ export default Navbar
 
   
 
-    // import {Drawer} from './Sidebar.js'
